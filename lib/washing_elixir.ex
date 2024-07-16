@@ -14,5 +14,6 @@ defmodule WashingElixir do
   """
   def hello do
     :world
+    IO.puts("uwu")
   end
 end
